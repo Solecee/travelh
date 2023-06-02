@@ -2,6 +2,7 @@ body {
     font-family: 'Roboto Mono', monospace;
     background-image: url(kretaBG.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
     color: black;
 }
 
@@ -30,7 +31,7 @@ body {
 }
 
 .cart {
-    margin-left: 1060px;
+    margin-left: 950px;
 }
 
 .enlarge {

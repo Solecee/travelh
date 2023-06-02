@@ -32,7 +32,7 @@ body{
 
 .rolunk {
     height: 500px;
-    transform: translateY(170%);
+    transform: translateY(165%);
     text-align: center;
     background-color: #ffb084;
     color: white;
@@ -62,7 +62,7 @@ body{
 }
 
 .cart {
-    margin-left: 1100px;
+    margin-left: 1000px;
 }
 
 .fb_ins_tw {
